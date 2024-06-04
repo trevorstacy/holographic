@@ -1,0 +1,15 @@
+{
+  "originHash" : "678a4740401d71f3ef788fcbea79e9ebac2968163094e1961257be0b51e5f1bc",
+  "pins" : [
+    {
+      "identity" : "noise",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/heestand-xyz/Noise",
+      "state" : {
+        "revision" : "4b060518b5b9f755a968fdb7ffc4ce5fa8e7c920",
+        "version" : "2.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
